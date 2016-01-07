@@ -1,0 +1,59 @@
+-- introduce yourselves --
+
+Scratch is a graphical programming environment focused on education.
+Nathan and I use it to make our own games.
+
+You can do it online at scratch.mit.edu, or you can download the offline editor.
+
+You drag and drop pieces, called blocks, to create scripts.
+
+When you play the scripts you can see the results.
+
+Let's look at a quick introductory video.
+
+-- play video on scratch homepage --
+
+This is the screen where you see the game or scene.
+
+Characters or pieces in the game are pictures called sprites. Each sprite can
+have scripts that tell it what to do. Here we have a default cat sprite.
+
+A sprite's location is given in X & Y coordinates.
+This is called a coordinate plane.
+0,0 is in the middle.
+When you move up the Y gets bigger.  When you move down the Y gets smaller.
+When you move right the X gets bigger.  When you move left the X gets smaller.
+
+The scripting tab is where most of the magic happens.
+There are blocks here that you can drag into your working area
+-- drag block into working area --
+And those blocks effect our scene.
+-- click block and see sprite move --
+
+Now let's talk about the different kinds of blocks.
+
+-- Nathan goes down the left list of blocks and makes a variable --
+
+Motion - how to tell your sprite to move
+Looks - change your sprite's appearance
+Sound - make your sprite play a sound
+Pen - this is for drawing on the scene but I haven't used it yet.
+Data - this is where you can make variables
+-- make a "score" variable & mention new blocks --
+
+Events - The things that activate your blocks
+Control - programming logic like repetition
+Sensing - how your sprite knows something happened
+Operators - used for math or logic conditions.
+More Blocks - takes a complex operation and makes it shorter and allow you to reuse it.
+              In programing, this is called "extracting a method."
+
+-- define a jump block and show it --
+
+So let's make a simple scene with our jumping cat.
+
+When you click the flag, we'll make the cat jump 10 times.
+
+Hey, now we're programmers!
+
+Now you should go get scratch and try it out for yourself!
