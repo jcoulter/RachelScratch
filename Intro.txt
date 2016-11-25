@@ -1,0 +1,53 @@
+(R) Hi there! I'm Rachel Coulter (N) & I'm Nathan Coulter!
+(R) we are going to give you an overview of scratch,(N) demo some games,(R) and give you inspiration to make your games and stories come to life
+
+(N) Scratch is a graphical programming environment focused on education.
+(R) Nathan and I use it to make our own games.
+
+(R) you can do it at scratch.mit.edu or you can download the offline editor though, the offline editor tends to be a little sketchy sometimes.
+
+(N) You drag and drop pieces, called blocks, to create scripts.
+(R) When you play the scripts you can see the results on the screen or stage.
+
+(N) this is the screen where you see the game or scene.
+
+Characters or pieces in the game are pictures called sprites each sprite can
+have scripts that tell it what to do. here we have a default cat sprite.
+
+A sprite's location is given in X & Y coordinates.
+This is called a coordinate plane.
+0,0 is in the middle.
+When you move up the Y gets bigger.  When you move down the Y gets smaller.
+When you move right the X gets bigger.  When you move left the X gets smaller.
+
+this is the scripting tab where most of the magic happens.
+There are blocks here that you can drag into your working area
+-- drag block into working area --
+And those blocks effect our scene.
+-- click block and see sprite move --
+
+Now let's talk about the different kinds of blocks.
+
+-- Nathan goes down the left list of blocks and makes a variable --
+
+Motion - how to tell your sprite to move
+Looks - change your sprite's appearance
+Sound - make your sprite play a sound
+Pen - this is for drawing on the scene we have used it minorly but we have no great experience.
+Data - this is where you can make variables
+-- make a "score" variable & mention new blocks --
+
+Events - The things that activate your blocks
+Control - programming logic like repetition
+Sensing - how your sprite knows something happened
+Operators - used for math or logic conditions.
+More Blocks - takes a complex operation and makes it shorter and allow you to reuse it.
+              In programing, this is called "extracting a method."
+
+-- define a jump block and show it --
+If you attach a jump block to a "repeat 10 times" block & a flag block
+When you click the flag, we'll make the cat jump 10 times.
+
+Hey, now we're programmers!
+
+Now you should go get scratch and try it out for yourself!
