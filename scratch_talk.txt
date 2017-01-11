@@ -9,10 +9,6 @@ You drag and drop pieces, called blocks, to create scripts.
 
 When you play the scripts you can see the results.
 
-Let's look at a quick introductory video.
-
--- play video on scratch homepage --
-
 This is the screen where you see the game or scene.
 
 Characters or pieces in the game are pictures called sprites. Each sprite can
@@ -56,4 +52,53 @@ When you click the flag, we'll make the cat jump 10 times.
 
 Hey, now we're programmers!
 
-Now you should go get scratch and try it out for yourself!
+Now let's talk about costumes.
+
+#change costume
+#make the cat walk
+#define walk block
+#make cat run
+#define run block
+
+#make cat walk in a square
+#make cat jump at corners
+#make cat run in square
+
+if you search in the Looks area you will find the next costume block
+and if you click it the cat will change how it looks.
+
+What about we make a new block? We'll call this block walk. But 
+we now have to define what "walk" means, so we attach a next costume block. then a move ten steps block to make it move, and wait 1 secs block to make it look good. though one second is to long so  lets shorten it to 0.2 secs and ta-da! we now have a walk block!
+#explain degrees
+but what about we also make a run block how would we do that?
+--take help from the audiunce-- 
+Look you guys made a run block! 
+
+And let's make the cat walk in a square and jump at the corners so if we mix those two together and add these blocks
+--conbine walk and jump blocks and add a wait 1 secs and a turn left 15 block (ajust wait and turn blocks)--
+we'll make him walk in a square and jump at the corners!
+
+and if we replace the walk block with our run block he'll run instead of walking! 
+
+#make it walk right 
+#make it walk left
+#explain rotation
+#move using keys
+
+we are going to make our cat walk left and right using the arrow keys.
+to move right we have to make a "walk right" block. to do that we will just rename the "walk" block "walk right".
+a fun fact about Scratch is that the "move ten steps" block only moves from left to right. so for the cat to walk left we will have to figure out something else.
+
+first we want it to point which way? that's right! left.
+
+but hold on,  if we make the cat point left he's upside-down! let's figure out how to fix that.
+ first, let's talk about rotation. there are three ways you can rotate. you can rotate in a circle, rotate so you flip or mirror, and not rotate at all. so what do you think we should use? circle, flip, or, none? that's right! flip. so now he should flip the right way.to get him to walk left all we have to do is make a new block called "walk left". to define it why don't we duplicate the blocks for "walk right" it should work because it's pointing a new way right?
+WHAT HAPPENED?! it went backwards instead of walking left. does anyone know what happened? right! "take ten steps" always goes from left to right!
+so to make him walk left we just change it from ten to negative ten and he will walk left. now all we have to do is 
+
+1. make sure that rotation is on flip
+2.change a space key block to left arrow 
+3.attach a point in direction -90 degrees block
+4.attach a "walk left" block
+and if we test it, it should work.
+
