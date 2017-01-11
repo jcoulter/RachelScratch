@@ -102,3 +102,40 @@ so to make him walk left we just change it from ten to negative ten and he will 
 4.attach a "walk left" block
 and if we test it, it should work.
 
+
+
+RACHEL’S DEMO OF DANCE SHOW
+
+
+This is my game dance show where the ballerina  has been enslaved with magic shoes that make her dance until you free her.  You free her by clicking on her sprite
+
+You can go full screen by clicking here
+
+— Go full screen —
+
+— play game —
+
+I won!
+
+There are two phases to the game, the ballerina when she is dancing and the ballerina when she is free.  You can tell which phase you are in by checking the “dancing” variable.  1 means she is not free, 0 means she is free.
+
+
+The ballerina’s looks are made up of two parts, animation, and motion.  
+
+Let’s look at the animation first.
+
+ — drag the motion block away —
+ — click the flag —
+
+The animation is a forever loop (explain) 
+
+The fist thing that it does in the loop is see if dancing is set to 1, so it knows to animate the ballerina.
+
+The animation is simply changing costumes like we saw before.
+
+princes motion
+
+winning
+
+
+
